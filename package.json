@@ -1,0 +1,21 @@
+{
+  "name": "stage2",
+  "version": "1.0.0",
+  "description": "Headless synchronization server for the Watson time-tracker",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Watson",
+    "time-tracker",
+    "synchronization"
+  ],
+  "author": "0x9-dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "lowdb": "^3.0.0"
+  }
+}
