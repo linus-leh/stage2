@@ -1,5 +1,5 @@
 # stage2
-A very simple server for synchronizing frames from the [Watson](https://github.com/TailorDev/Watson/) CLI time-tracker across multiple devices.
+A very simple backend for synchronizing frames from the [Watson](https://github.com/TailorDev/Watson/) CLI time-tracker across multiple devices.
 
 (This project is still in the early stages of development.)
 
